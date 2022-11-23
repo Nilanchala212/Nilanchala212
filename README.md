@@ -5,9 +5,9 @@
 <div id="header" align="center">
  <img src="https://komarev.com/ghpvc/?username=Nilanchala212&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 <p><a href="https://www.buymeacoffee.com/Nilanchala"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nilanchala" /></a></p><br><br> 
-</div>
+</div> -->
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Nilanchala"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nilanchala" /></a></p><br><br> -->
 <!-- <div id="badges">
